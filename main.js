@@ -135,8 +135,8 @@ const predefinedSongs = [
         voices: "music/guns/Voices.mp3",
     },
     {
-        name: "Stress",
-        chartData: "charts/stress-hard.json",
+        name: "Bopeebo",
+        chartData: "charts/bopeebo-normal.json",
         instrumental: "music/stress/Inst.mp3",
         voices: "music/stress/Voices.mp3",
     },
